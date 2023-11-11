@@ -1,6 +1,6 @@
 module github.com/sehugg/emutest
 
-replace github.com/kivutar/emutest => github.com/sehugg/emutest v0.0.0-20231111215043-4e45bb39333d
+replace github.com/kivutar/emutest => github.com/sehugg/emutest testrunner
 
 require (
 	github.com/Shopify/go-lua v0.0.0-20210302141115-d8ac5566562d // indirect

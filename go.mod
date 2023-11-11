@@ -1,5 +1,7 @@
 module github.com/sehugg/emutest
 
+replace github.com/kivutar/emutest => github.com/sehugg/emutest
+
 require (
 	github.com/Shopify/go-lua v0.0.0-20210302141115-d8ac5566562d // indirect
 	github.com/libretro/ludo v0.14.6
